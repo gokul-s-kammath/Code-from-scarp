@@ -5,6 +5,6 @@ int num,pow;
 printf("Enter a number:");
 scanf("%d",&num);
 pow=num*num*num;
-printf("The cube if the numbers is:%d",pow);
+printf("The cube of the numbers is:%d",pow);
 return 0;
 }
